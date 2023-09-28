@@ -9,14 +9,14 @@ void main(void)
 	int Reste= 0;
 
 	//Demander une valeur comprise entre 0 et 255
-	printf_s("Entrez une valeur décimale comprise entre 0 et 255");
+	printf_s("Entrez une valeur decimale comprise entre 0 et 255 : ");
 	scanf_s("%d", & ValDec);
 	ValDec_initial = ValDec;
 
 	//Verifier si la valeur est correcte
 	if (ValDec < 0 || ValDec > 255)
 	{
-		printf_s("La valeur décimal doit être comprise 0 et 255");
+		printf_s("La valeur decimal doit etre comprise 0 et 255");
 	}
 	else
 	{
