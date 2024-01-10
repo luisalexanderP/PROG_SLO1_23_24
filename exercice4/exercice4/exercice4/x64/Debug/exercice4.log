@@ -1,0 +1,5 @@
+﻿  Ex4_V2.C
+C:\LPI_PROG\SolutionExerciesProg\exercice4\exercice4\exercice4\Ex4_V2.C(44,12): warning C4244: '=' : conversion de 'uint16_t' en 'uint8_t', perte possible de données
+C:\LPI_PROG\SolutionExerciesProg\exercice4\exercice4\exercice4\Ex4_V2.C(46,10): warning C4476: 'printf' : caractère de champ de type 'H' inconnu dans le spécificateur de format
+C:\LPI_PROG\SolutionExerciesProg\exercice4\exercice4\exercice4\Ex4_V2.C(65,8): error C2065: 's' : identificateur non déclaré
+C:\LPI_PROG\SolutionExerciesProg\exercice4\exercice4\exercice4\Ex4_V2.C(65,8): error C2143: erreur de syntaxe : absence de ';' avant 'type'

@@ -1,5 +1,0 @@
-﻿  MesFonctions.c
-  mainSLO.c
-C:\PBY\PROJET\PROGRAMMATION\GITHUB\DEMO_SLO23_24\CodeDemo\DemoSLo_23_24\DemoSLo_23_24\mainSLO.c(43,1): warning C4305: 'initialisation' : troncation de 'double' à 'float'
-  Génération de code en cours...
-  DemoSLo_23_24.vcxproj -> C:\PBY\PROJET\PROGRAMMATION\GITHUB\DEMO_SLO23_24\CodeDemo\DemoSLo_23_24\DemoSLo_23_24\Debug\DemoSLo_23_24.exe
